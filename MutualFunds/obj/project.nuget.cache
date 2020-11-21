@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wjT3vbbHS/hCEQia/hVHMTHM0T1v245HWKlZjHl8GUkGAP1gNuScIhdNZOixHAH2W+6/vLLaqkvZzPdUCVyXBQ==",
+  "success": true,
+  "projectFilePath": "D:\\MihaiRepo\\MutualFunds\\MutualFunds\\MutualFunds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mihai.darie\\.nuget\\packages\\csvhelper\\16.1.0\\csvhelper.16.1.0.nupkg.sha512",
+    "C:\\Users\\mihai.darie\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\mihai.darie\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\mihai.darie\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
