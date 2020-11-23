@@ -8,10 +8,12 @@ namespace MutualFunds
         {
             var ingPriceRetriever = new IngPriceRetriever();
 
-            ingPriceRetriever.ExtractPrices();
+            //ingPriceRetriever.ComputeAnualEvolution(ingPriceRetriever.ExtractPrices());
+
+            ingPriceRetriever.ComputeAnualEvolutionSideBySide(ingPriceRetriever.ExtractPrices());
 
             Console.WriteLine("Press any key to exit.");
-            Console.Read();
+            //Console.Read();
         }
     }
 }
